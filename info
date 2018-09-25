@@ -1,0 +1,17 @@
+VPSPACK v2 - PowerMX
+
+Este administrador de VPS cuenta con los siguientes comandos (Alias):
+
+- vpspack (comandos principal)
+- @vps (Alias del comando principal)
+- @crear (crea un cuenta SSH)
+- @borrar (borra una cuenta SSH)
+- @modificar (modifica una cuenta SSH)
+- @test (Test de Velocidad)
+- @cache (Limpia el cache)
+- @badvpn (Instala BadVPN)
+
+Ejemplo: @vps
+
+Visita nuestro sitio Web : powermx.org
+Grupo de Telegram: @PwrMX
