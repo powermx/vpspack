@@ -20,13 +20,12 @@ apt-get update && apt-get upgrade && apt-get install ca-certificates && wget htt
 Dev Code Legion / PwrMX
 =========
 
-# Telegram: http://t.me/pwrmx/
-# Blog: http://pwr.org.mx/
+# Telegram: http://t.me/vpnmx
 
 
 #Cambios
-Esta es una version Demo sin instaladores de paquetes, visita el sitio web para una version completa
-# VpsPack: https://pwr.org.mx/vpspack/
+Esta es una version Demo sin instaladores de paquetes, visita el grupo de Telegram para una version completa
+# VpsPack:
 
 #Creditos:
 - RicKbrl (Script Original)
